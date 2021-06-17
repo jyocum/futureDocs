@@ -1,3 +1,10 @@
+---
+title: Video
+layout: default
+parent: In-House Index
+nav_order: 1
+---
+
 # VHS Digitization
 ## Power Everything On
 - Power on the AV racks
