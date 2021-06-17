@@ -21,3 +21,7 @@ Numbered list
 1. item1
 2. item2
 3. item3
+
+[super important link](www.github.com)
+
+Try `sudo rm -rf`
