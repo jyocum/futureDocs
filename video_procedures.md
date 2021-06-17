@@ -1,7 +1,7 @@
 ---
 title: Video
 layout: default
-parent: In-House Index
+parent: In-House Procedures
 nav_order: 1
 ---
 
